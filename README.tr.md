@@ -49,7 +49,6 @@ Bunlara ek olarak, normal bir kopyalama yaptığında imlecin yanında küçük 
 ---
 
 
-
 https://github.com/user-attachments/assets/d73c31fc-e88f-415a-83c4-b48a1ae6fe1e
 
 
@@ -57,9 +56,7 @@ https://github.com/user-attachments/assets/d73c31fc-e88f-415a-83c4-b48a1ae6fe1e
 **Shift + C , Shift + V , Shift + D**
 
 
-
 https://github.com/user-attachments/assets/7711618a-77e3-4e7d-998a-f31490f51370
-
 
 
 ---
